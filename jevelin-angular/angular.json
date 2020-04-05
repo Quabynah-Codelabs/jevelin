@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "jevelin-angular"
+    }
+  },
+  "defaultProject": "jevelin-angular",
+  "cli": {
+    "analytics": false
+  }
 }
